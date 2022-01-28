@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "R1-01-InitiationAuDeveleppement-partie1",
+			"path": "."
+		},
+		{
+			"name": "R1-Partie2",
+			"path": "..\\R1-Partie2"
+		},
+		{
+			"name": "doxygen-config",
+			"path": "\\\\haya\\dossiersetud\\tcocheril001\\Downloads\\workspace\\doxygen-config"
+		},
+		{
+			"name": "ressourcesTP1",
+			"path": "\\\\haya\\dossiersetud\\tcocheril001\\Downloads\\ressourcesTP1"
+		},
+		{
+			"name": "tp1",
+			"path": "\\\\haya\\dossiersetud\\tcocheril001\\Downloads\\workspace\\tp1"
+		},
+		{
+			"name": "docs",
+			"path": "\\\\haya\\dossiersetud\\tcocheril001\\Downloads\\workspace\\docs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
